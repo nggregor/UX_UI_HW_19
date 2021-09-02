@@ -52,7 +52,7 @@ sr.reveal('.about__text',{delay: 200})
 sr.reveal('.skills__subtitle',{})
 sr.reveal('.skills__text',{delay: 200})
 sr.reveal('.skills__data',{interval: 200})
-sr.reveal('.skills__img',{delay: 400})
+sr.reveal('.skills__img',{delay: 200})
 
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200})
