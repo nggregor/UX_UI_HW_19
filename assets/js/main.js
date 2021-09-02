@@ -50,7 +50,7 @@ sr.reveal('.about__text',{delay: 200})
 
 /*SCROLL SKILLS*/
 sr.reveal('.skills__subtitle',{})
-sr.reveal('.skills_text',{delay: 200})
+sr.reveal('.skills__text',{delay: 200})
 sr.reveal('.skills__data',{interval: 200})
 sr.reveal('.skills__img',{delay: 400})
 
