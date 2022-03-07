@@ -344,7 +344,7 @@ img{
     width: 100%;
     font-size: var(--normal-font-size);
     font-weight: var(--font-semi);
-    padding: 1rem;
+    padding: 2rem;
     border-radius: .5rem;
     border: 1.5px solid var(--second-color);
     outline: none;
@@ -358,6 +358,7 @@ img{
     cursor: pointer;
     margin-left: auto;
 }
+
 /*===== FOOTER =====*/
 .footer{
     background-color: var(--second-color);
